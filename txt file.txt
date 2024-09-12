@@ -11,9 +11,9 @@ Answer: Marie Curie
 Question 3:
 What is the world's second-largest country by land area?
 Answer: Canada
+
 Question 4:
 Which famous physicist developed the theory of general relativity?
-
 Answer: Albert Einstein
 
 Question 5:
