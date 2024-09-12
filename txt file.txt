@@ -13,15 +13,19 @@ What is the world's second-largest country by land area?
 
 Question 4:
 Which famous physicist developed the theory of general relativity?
+Albert Einstein
 
 Question 5:
 What is the longest river in the world?
+Nile
 
 Question 6:
 In what year did the Berlin Wall fall?
+1989
 
 Question 7:
 Which artist painted "Starry Night"?
+Van Gogh
 
 Question 8:
 Who wrote the novel "1984"?
